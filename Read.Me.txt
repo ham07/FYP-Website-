@@ -1,0 +1,12 @@
+-This Is my FYP -Project
+-Furnituristic(Website)
+-In this we have two portal which is one user and one shopkeeper
+-We are giving a online platform for user and a shopkeeper. 
+-shopkeeper to showcase their product and maintain an online store and 
+-user to buy furniture check shop around their home by clicking a single button
+- book carpenter online in cheaper rates and
+- user can also post ads to sell their old furniture or buy old furniture 
+-User also can check latest Designs
+
+-This project is created in core PHP ,javascript and Bootstrap
+-DataBase is used is MySqli(PhpMyadmin)
